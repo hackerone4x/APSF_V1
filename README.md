@@ -1,10 +1,10 @@
 # APSF_V1 @hackerone4x Social Engneering Tool 
 #### Installation :
 - >     apt install python3 
-- >     pip3 install -r requirements.txt
 - >     apt install git 
 - >     git clone https://github.com/hackerone4x/APSF_V1
 - >     cd APSF_V1
+- >     pip3 install -r requirements.txt
 - >     python3 main.py
 ________________________________________________________________________________________________________________________________________________ 
 #### Useage :
